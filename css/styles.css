@@ -1,0 +1,164 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1, h3 {
+  font-family: 'Quintessential', cursive;
+}
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+}
+
+#title {
+  background-image: url("https://i.ibb.co/ssbgLkC/header-pic-2.png");
+  background-size: cover;
+  height: 700px;
+  color: #fff;
+  text-align: center;
+}
+
+
+/*Navbar*/
+.nav-link {
+  color: #fff !important;
+  font-size: 1.5rem;
+  font-family: 'Roboto', sans-serif;
+}
+
+.navbar-brand {
+  color: #fff !important;
+  font-size: 2rem;
+  font-family: 'Quintessential', cursive;
+}
+
+/*Heading*/
+.header {
+  padding-top: 200px;
+}
+
+.big-heading {
+  font-size: 100px;
+}
+
+.section-heading {
+  word-spacing: normal;
+  font-size: 1.5rem;
+}
+
+
+/*Features*/
+#features {
+  text-align: center;
+    padding: 2% 10% 5% 10%;
+    position: relative;
+}
+.feature-image {
+  width: 150px;
+  border radius: 100%;
+}
+.features-header {
+  text-align: center;
+  margin-bottom: 50px;
+}
+.feature-box {
+  padding: 15px;
+}
+
+/*Testimonials*/
+
+#testimonials {
+  background-color: #7bc7d5;
+  color: #fff;
+}
+.testimonial-text {
+  line-height: 1.5;
+  text-align: center;
+}
+
+.carousel-item {
+  padding: 2% 15%;
+}
+.signature {
+margin-top: 2%;
+}
+.testimonials-header {
+  text-align: center;
+  padding-top: 3%;
+}
+
+.signature {
+
+
+}
+
+
+/*Portfolio on main page*/
+#portfolio {
+  background-color: #fff;
+  text-align: center;
+  margin-top: 50px;
+  padding-top: 50px;
+  color: black;
+}
+.portfolio-pic {
+  width: 300px;
+}
+.card-header {
+  color: black;
+}
+.portfolio-column {
+  padding: 3% 2%;
+}
+.btn-see-more {
+  margin-bottom: 40px;
+}
+/*Portfolio page*/
+#title-portfolio {
+  background-image: url("https://i.ibb.co/ssbgLkC/header-pic-2.png");
+  background-size: cover;
+  height: 350px;
+  color: #fff;
+  text-align: center;
+}
+#portfolio-page {
+  background-color: #fff;
+  color: black;
+  text-align: center;
+  margin-top: 25px;
+  padding-top: 50px;
+}
+
+
+
+
+
+/*Footer*/
+#footer {
+  background-color: #7bc7d5;
+  color: #f1f3f8;
+  height: 300px;
+  text-align: center;
+  padding-top: 50px;
+}
+.footer-icons {
+  word-spacing: 2rem;
+  padding-bottom: 20px;
+}
+.contact-us {
+letter-spacing: 2px;
+line-height: 200%;
+margin-bottom: 70px;
+color: #f1f3f8;
+}
+.phone-email {
+  color:#f1f3f8;
+}
+.phone-email:hover {
+  color:#8d93ab;
+}
